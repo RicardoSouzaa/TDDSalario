@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCalculoSalario", "TDDCalculoSalario.csproj", "{BFA24406-0994-4FF8-87E2-75A5AD8DB905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSalario", "..\TesteSalario\TesteSalario.csproj", "{E5819658-637F-45E0-B216-C57A9B07BEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA24406-0994-4FF8-87E2-75A5AD8DB905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA24406-0994-4FF8-87E2-75A5AD8DB905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA24406-0994-4FF8-87E2-75A5AD8DB905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA24406-0994-4FF8-87E2-75A5AD8DB905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5819658-637F-45E0-B216-C57A9B07BEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5819658-637F-45E0-B216-C57A9B07BEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5819658-637F-45E0-B216-C57A9B07BEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5819658-637F-45E0-B216-C57A9B07BEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4084A34F-7966-401B-84FF-9F7DDBC2A7D0}
+	EndGlobalSection
+EndGlobal
